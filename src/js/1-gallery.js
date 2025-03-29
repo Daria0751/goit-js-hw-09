@@ -14,6 +14,7 @@ const images = [
     }
 ];
 
+
 const galleryContainer = document.querySelector('.gallery');
 
 const markup = images
